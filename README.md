@@ -23,7 +23,7 @@ cd ..
 ```
 
 - now create a new file dotenv in the personal-blog-MERN folder
-![dotenv.png](/assets/dotenv.png)
+![dotenv.png](/assets/dotenv.png)\
 ![dotenv1.png](/assets/dotenv1.png)
 - replace the <password> with your mongoDB password
 
